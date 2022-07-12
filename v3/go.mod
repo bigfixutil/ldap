@@ -8,4 +8,4 @@ require (
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9 // indirect
 )
 
-replace github.com/bigfixutil/ldap/v3 => github.com/go-ldap/ldap/v3 v3.3.0
+replace github.com/go-ldap/ldap/v3 => github.com/bigfixutil/ldap/v3 v3.3.0
